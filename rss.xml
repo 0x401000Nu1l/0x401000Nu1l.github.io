@@ -46,7 +46,7 @@
 &lt;p&gt;VM 逆向的关键点在于理清整个 VM 结构体，探明其中寄存器分配以及不同的指令码代表具体的什么指令，由于加入了 go 语言，使得过程有点艰难，但是 IDA PRO 7.6 版本之后支持 go 语言逆向，给 go 语言逆向很大帮助&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-20220509161954602.png&#34; alt=&#34;image-20220509161954602&#34;&gt; 该函数表示程序执行中断&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-20220509162012368.png&#34; alt=&#34;image-20220509162012368&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;C:%5CUsers%5CIkhan%5CAppData%5CRoaming%5CTypora%5Ctypora-user-images%5Cimage-20220506101710560.png&#34; alt=&#34;image-20220506101710560&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;image-20220506101710560.png&#34; alt=&#34;image-20220506101710560&#34;&gt;&lt;/p&gt;
 &lt;p&gt;进入 init 函数后，发现有十几个 init_func, 这是 init_func 对应的就是后面解析指令时对应指令的作用&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-20220509162258527.png&#34; alt=&#34;image-20220509162258527&#34;&gt;&lt;/p&gt;
 &lt;p&gt;发现类似结构体的变量 a1 , 合理推测这正是虚拟机结构体，&lt;strong&gt;下面开始分析该结构体元素&lt;/strong&gt;&lt;/p&gt;
