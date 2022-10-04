@@ -10,16 +10,16 @@
     </author>
     <updated>2022-10-04T13:16:06.000Z</updated>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/10/04/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</id>
+        <id>https://0x401000nu1l.github.io/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</id>
         <title>用C语言实现基于LC-3指令集的虚拟机</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/10/04/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
         <content type="html"></content>
         <updated>2022-10-04T13:16:06.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/06/13/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</id>
+        <id>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</id>
         <title>软构学习五</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/06/13/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/"/>
         <content type="html">&lt;h1 id=&#34;设计模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计模式&#34;&gt;#&lt;/a&gt; 设计模式&lt;/h1&gt;
 &lt;p&gt;在软件工程中，设计模式（Design Pattern）是对软件设计中普遍存在（反复出现）的各种问题，所提出的解决方案。根据模式的目的来划分的话，GoF（Gang of Four）设计模式可以分为以下 3 种类型：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;bVcfO3r&#34; alt=&#34;image&#34;&gt;&lt;/p&gt;
@@ -214,9 +214,9 @@
         <updated>2022-06-13T10:16:05.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/06/04/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/</id>
         <title>2022CISCN_逆向</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/06/04/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/"/>
         <content type="html">&lt;h1 id=&#34;2022ciscn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2022ciscn&#34;&gt;#&lt;/a&gt; 2022CISCN&lt;/h1&gt;
 &lt;p&gt;引用某位师傅的吐槽&lt;/p&gt;
 &lt;blockquote&gt;
@@ -280,9 +280,9 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
         <updated>2022-06-04T15:00:58.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/06/01/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</id>
+        <id>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</id>
         <title>软构学习四</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/06/01/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/"/>
         <content type="html">&lt;h1 id=&#34;课程内容5-8章复习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程内容5-8章复习&#34;&gt;#&lt;/a&gt; 课程内容 5-8 章复习&lt;/h1&gt;
 &lt;h4 id=&#34;adt&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#adt&#34;&gt;#&lt;/a&gt; ADT&lt;/h4&gt;
 &lt;p&gt;所谓 ADT - 抽象数据类型，强调作用于数据之上的操作，并不关心数据具体是怎么存储的。例如我们的字母集合，只对它定义了操作，它的元素到底是怎么存的？用户不需要知道。可以是字符串，可以是字符数组，可以是哈希表，可以是红黑树……&lt;/p&gt;
@@ -328,9 +328,9 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
         <updated>2022-06-01T10:15:57.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/05/15/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</id>
+        <id>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</id>
         <title>软构学习三</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/05/15/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/"/>
         <content type="html">&lt;h1 id=&#34;课程内容1-4章复习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程内容1-4章复习&#34;&gt;#&lt;/a&gt; 课程内容 1-4 章复习&lt;/h1&gt;
 &lt;h2 id=&#34;一多维度视图和质量目标&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一多维度视图和质量目标&#34;&gt;#&lt;/a&gt; 一。多维度视图和质量目标&lt;/h2&gt;
 &lt;h3 id=&#34;总览&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总览&#34;&gt;#&lt;/a&gt; 总览&lt;/h3&gt;
@@ -633,9 +633,9 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
         <updated>2022-05-15T10:15:52.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/05/11/CTF_Reverse/DASCTFxSU-RE-wp/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/DASCTFxSU-RE-wp/</id>
         <title>DASCTFxSU_RE_wp</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/05/11/CTF_Reverse/DASCTFxSU-RE-wp/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/DASCTFxSU-RE-wp/"/>
         <content type="html">&lt;h1 id=&#34;2022dasctf-x-su-三月春季挑战赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2022dasctf-x-su-三月春季挑战赛&#34;&gt;#&lt;/a&gt; 2022DASCTF X SU 三月春季挑战赛&lt;/h1&gt;
 &lt;h3 id=&#34;login&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#login&#34;&gt;#&lt;/a&gt; &lt;strong&gt;login&lt;/strong&gt;&lt;/h3&gt;
 &lt;blockquote&gt;
@@ -749,9 +749,9 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
         <updated>2022-05-11T15:02:44.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/05/09/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</id>
         <title>VNCTF2022逆向部分wp</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/05/09/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/"/>
         <content type="html">&lt;h1 id=&#34;vnctf2022逆向wp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vnctf2022逆向wp&#34;&gt;#&lt;/a&gt; VNCTF2022 逆向 wp&lt;/h1&gt;
 &lt;h4 id=&#34;babymaze&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#babymaze&#34;&gt;#&lt;/a&gt; babyMaze&lt;/h4&gt;
 &lt;blockquote&gt;
@@ -841,9 +841,9 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
         <updated>2022-05-09T06:38:12.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/05/03/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</id>
         <title>DASCTF X FATE逆向部分wp</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/05/03/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/"/>
         <content type="html">&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9idXVvai5jbi9tYXRjaC9tYXRjaGVzLzk1L2NoYWxsZW5nZXM=&#34;&gt;题目附件&lt;/span&gt;&lt;/p&gt;
 &lt;h4 id=&#34;crackmemfc逆向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#crackmemfc逆向&#34;&gt;#&lt;/a&gt; Crackme (MFC 逆向)&lt;/h4&gt;
 &lt;p&gt;日常查壳&lt;br&gt;
@@ -915,9 +915,9 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
         <updated>2022-05-03T08:01:26.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/30/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</id>
+        <id>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</id>
         <title>软构学习二</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/30/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/"/>
         <content type="html">&lt;h1 id=&#34;git学习之旅&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git学习之旅&#34;&gt;#&lt;/a&gt; Git 学习之旅&lt;/h1&gt;
 &lt;h4 id=&#34;git与svn的区别&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git与svn的区别&#34;&gt;#&lt;/a&gt; Git 与 SVN 的区别&lt;/h4&gt;
 &lt;ul&gt;
@@ -963,9 +963,9 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
         <updated>2022-04-30T10:15:46.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/29/whispers/%E5%B7%A6%E8%BD%AC/</id>
+        <id>https://0x401000nu1l.github.io/whispers/%E5%B7%A6%E8%BD%AC/</id>
         <title>左转</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/29/whispers/%E5%B7%A6%E8%BD%AC/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/whispers/%E5%B7%A6%E8%BD%AC/"/>
         <content type="html">&lt;h1 id&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
 &lt;p&gt;资本的复兴和脑力无产者的左转 -- 佐伊 23&lt;/p&gt;
 &lt;p&gt;2020 年是一个特殊的年份，它是脑力无产者明显左转的一年（转向批评资本主义），也是体力无产者明显感受到危机的第一年。&lt;/p&gt;
@@ -1029,9 +1029,9 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
         <updated>2022-04-29T02:36:43.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/21/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/</id>
         <title>CTFshow卷王杯wp</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/21/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/"/>
         <content type="html">&lt;h3 id=&#34;ctfshow-卷王杯-wp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ctfshow-卷王杯-wp&#34;&gt;#&lt;/a&gt; &lt;strong&gt;CTFshow 卷王杯 wp&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;简单的re&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简单的re&#34;&gt;#&lt;/a&gt; 简单的 re&lt;/h4&gt;
 &lt;p&gt;&lt;a href=&#34;%5Bctf.show%5D(https://ctf.show/challenges#%E7%AE%80%E5%8D%95%E7%9A%84re-1827)&#34;&gt;下载附件&lt;/a&gt;&lt;/p&gt;
@@ -1162,9 +1162,9 @@ static dump(dumpfile,startimg,endimg,offset)
         <updated>2022-04-20T16:07:10.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/20/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</id>
+        <id>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</id>
         <title>软构学习一</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/20/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/"/>
         <content type="html">&lt;h1 id=&#34;java学习以及面向对象初步&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java学习以及面向对象初步&#34;&gt;#&lt;/a&gt; Java 学习以及面向对象初步&lt;/h1&gt;
 &lt;h3 id=&#34;一类和对象&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一类和对象&#34;&gt;#&lt;/a&gt; 一。类和对象&lt;/h3&gt;
 &lt;h4 id=&#34;1定义&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1定义&#34;&gt;#&lt;/a&gt; 1. 定义&lt;/h4&gt;
@@ -1601,9 +1601,9 @@ new 外部类名或者接口名 (){重写方法};&lt;br&gt;
         <updated>2022-04-20T10:15:40.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/20/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/</id>
         <title>starCTF逆向wp</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/20/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/"/>
         <content type="html">&lt;h2 id=&#34;starctf-reverse-wirteup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#starctf-reverse-wirteup&#34;&gt;#&lt;/a&gt; StarCTF Reverse wirteup&lt;/h2&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZHdvcmxkLnhjdGYub3JnLmNuL21hdGNoL2NvbnRlc3RfY2hhbGxlbmdlP2V2ZW50PTE4NCZhbXA7aGFzaD0zM2QxZWM5MS02YzFkLTRjMzMtOWZmMi01NThjODAyY2VkOTIuZXZlbnQ=&#34;&gt;赛题 - *CTF (xctf.org.cn)&lt;/span&gt;&lt;/p&gt;
 &lt;h4 id=&#34;simple-file-system&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#simple-file-system&#34;&gt;#&lt;/a&gt; Simple File System&lt;/h4&gt;
@@ -1704,16 +1704,16 @@ new 外部类名或者接口名 (){重写方法};&lt;br&gt;
         <updated>2022-04-20T07:43:59.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/19/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/</id>
+        <id>https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/</id>
         <title>史上最小的elf文件</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/19/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/"/>
         <content type="html"></content>
         <updated>2022-04-19T08:29:21.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/18/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</id>
+        <id>https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</id>
         <title>汇编语言中系统调用</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/18/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/"/>
         <content type="html">&lt;h1 id=&#34;linux系统调用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux系统调用&#34;&gt;#&lt;/a&gt; linux 系统调用&lt;/h1&gt;
 &lt;h2 id=&#34;系统调用是用于用户空间和内核空间之间接口的api&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#系统调用是用于用户空间和内核空间之间接口的api&#34;&gt;#&lt;/a&gt; &lt;strong&gt;系统调用是用于用户空间和内核空间之间接口的 API&lt;/strong&gt;&lt;/h2&gt;
 &lt;h4 id=&#34;linux中使用系统调用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux中使用系统调用&#34;&gt;#&lt;/a&gt; linux 中使用系统调用&lt;/h4&gt;
@@ -1747,9 +1747,9 @@ int 0x80    ; call kernel
         <updated>2022-04-18T13:51:42.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/16/CTF_Reverse/CTFshow36D%E6%9D%AFwp/</id>
+        <id>https://0x401000nu1l.github.io/CTF_Reverse/CTFshow36D%E6%9D%AFwp/</id>
         <title>CTFshow36D杯wp</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/16/CTF_Reverse/CTFshow36D%E6%9D%AFwp/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/CTF_Reverse/CTFshow36D%E6%9D%AFwp/"/>
         <content type="html">&lt;h3 id=&#34;ctfshow-36d杯-wp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ctfshow-36d杯-wp&#34;&gt;#&lt;/a&gt; &lt;strong&gt;CTFshow 36D 杯 wp&lt;/strong&gt;&lt;/h3&gt;
 &lt;h4 id=&#34;1神光&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1神光&#34;&gt;#&lt;/a&gt; 1. 神光&lt;/h4&gt;
 &lt;p&gt;下载完直接运行&lt;/p&gt;
@@ -1837,9 +1837,9 @@ sernz bl      ;这里就能判断eax为1
         <updated>2022-04-16T07:37:06.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/13/whispers/plan/</id>
+        <id>https://0x401000nu1l.github.io/whispers/plan/</id>
         <title>plan</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/13/whispers/plan/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/whispers/plan/"/>
         <content type="html">&lt;h1 id=&#34;对自己小半年总结以及规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#对自己小半年总结以及规划&#34;&gt;#&lt;/a&gt; 对自己小半年总结以及规划&lt;/h1&gt;
 &lt;h2 id=&#34;总结&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#总结&#34;&gt;#&lt;/a&gt; 总结&lt;/h2&gt;
 &lt;p&gt;2022 年过去的四个月，学习了很多方面的知识，也对计算机知识稍微深入了解了一点，但是但当涉猎，没有精通的。&lt;/p&gt;
@@ -1868,9 +1868,9 @@ sernz bl      ;这里就能判断eax为1
         <updated>2022-04-13T14:29:38.000Z</updated>
     </entry>
     <entry>
-        <id>https://0x401000nu1l.github.io/2022/04/12/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/</id>
+        <id>https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/</id>
         <title>二进制炸弹</title>
-        <link rel="alternate" href="https://0x401000nu1l.github.io/2022/04/12/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/"/>
+        <link rel="alternate" href="https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/"/>
         <content type="html">&lt;h1 id=&#34;哈尔滨工业大学计算机系统lab2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#哈尔滨工业大学计算机系统lab2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;哈尔滨工业大学计算机系统 LAB2&lt;/strong&gt;&lt;/h1&gt;
 &lt;h3 id=&#34;一实验基本信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一实验基本信息&#34;&gt;#&lt;/a&gt; 一，实验基本信息&lt;/h3&gt;
 &lt;h4 id=&#34;1实验目的&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#1实验目的&#34;&gt;#&lt;/a&gt; 1. 实验目的&lt;/h4&gt;

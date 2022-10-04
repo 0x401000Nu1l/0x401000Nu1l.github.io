@@ -13,16 +13,16 @@
         <pubDate>Tue, 04 Oct 2022 21:16:06 +0800</pubDate>
         <lastBuildDate>Tue, 04 Oct 2022 21:16:06 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/10/04/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</guid>
             <title>用C语言实现基于LC-3指令集的虚拟机</title>
-            <link>https://0x401000nu1l.github.io/2022/10/04/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
+            <link>https://0x401000nu1l.github.io/Programming-Language/%E7%94%A8C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0%E5%9F%BA%E4%BA%8ELC-3%E6%8C%87%E4%BB%A4%E9%9B%86%E7%9A%84%E8%99%9A%E6%8B%9F%E6%9C%BA/</link>
             <pubDate>Tue, 04 Oct 2022 21:16:06 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/06/13/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</guid>
             <title>软构学习五</title>
-            <link>https://0x401000nu1l.github.io/2022/06/13/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</link>
+            <link>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</link>
             <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Mon, 13 Jun 2022 18:16:05 +0800</pubDate>
@@ -217,9 +217,9 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/06/04/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/</guid>
             <title>2022CISCN_逆向</title>
-            <link>https://0x401000nu1l.github.io/2022/06/04/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/2022CISCN_%E9%80%86%E5%90%91/</link>
             <category term="Reverse_wp_2022CISCN" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp-2022CISCN/" />
             <pubDate>Sat, 04 Jun 2022 23:00:58 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;2022ciscn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2022ciscn&#34;&gt;#&lt;/a&gt; 2022CISCN&lt;/h1&gt;
@@ -283,9 +283,9 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/06/01/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</guid>
             <title>软构学习四</title>
-            <link>https://0x401000nu1l.github.io/2022/06/01/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</link>
+            <link>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</link>
             <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Wed, 01 Jun 2022 18:15:57 +0800</pubDate>
@@ -331,9 +331,9 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/05/15/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</guid>
             <title>软构学习三</title>
-            <link>https://0x401000nu1l.github.io/2022/05/15/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</link>
+            <link>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</link>
             <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Sun, 15 May 2022 18:15:52 +0800</pubDate>
@@ -636,9 +636,9 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/05/11/CTF_Reverse/DASCTFxSU-RE-wp/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/DASCTFxSU-RE-wp/</guid>
             <title>DASCTFxSU_RE_wp</title>
-            <link>https://0x401000nu1l.github.io/2022/05/11/CTF_Reverse/DASCTFxSU-RE-wp/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/DASCTFxSU-RE-wp/</link>
             <category term="Reverse_wp" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp/" />
             <pubDate>Wed, 11 May 2022 23:02:44 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;2022dasctf-x-su-三月春季挑战赛&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2022dasctf-x-su-三月春季挑战赛&#34;&gt;#&lt;/a&gt; 2022DASCTF X SU 三月春季挑战赛&lt;/h1&gt;
@@ -752,9 +752,9 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/05/09/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</guid>
             <title>VNCTF2022逆向部分wp</title>
-            <link>https://0x401000nu1l.github.io/2022/05/09/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/VNCTF2022%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</link>
             <category term="Reverse_wp_VNCTF2022" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp-VNCTF2022/" />
             <pubDate>Mon, 09 May 2022 14:38:12 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;vnctf2022逆向wp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vnctf2022逆向wp&#34;&gt;#&lt;/a&gt; VNCTF2022 逆向 wp&lt;/h1&gt;
@@ -844,9 +844,9 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
 &lt;figure class=&#34;highlight c&#34;&gt;&lt;figcaption data-lang=&#34;c&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;iostream&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;ut32&lt;/span&gt; &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token keyword&#34;&gt;unsigned&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;define&lt;/span&gt; &lt;span class=&#34;token macro-name&#34;&gt;delta&lt;/span&gt; &lt;span class=&#34;token expression&#34;&gt;&lt;span class=&#34;token number&#34;&gt;0x9E3779B9&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;void&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;Tea_Decrypt&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;ut32&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; enc&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; ut32&lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	ut32 sum &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; delta &lt;span class=&#34;token operator&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0x20&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	ut32 v0 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; enc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	ut32 v1 &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; enc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;for&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0x20&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		v1 &lt;span class=&#34;token operator&#34;&gt;-=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;v0 &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;^&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;v0 &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;^&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;v0 &lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		v0 &lt;span class=&#34;token operator&#34;&gt;-=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;v1 &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;^&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;v1 &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; sum&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;^&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;v1 &lt;span class=&#34;token operator&#34;&gt;&gt;&gt;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;		sum &lt;span class=&#34;token operator&#34;&gt;-=&lt;/span&gt; delta&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	enc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; v0&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	enc&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; v1&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	ut32 m&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0xe8d1d5df&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0xf5e3c114&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt; &lt;span class=&#34;token comment&#34;&gt;// 依次密文&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	ut32 k&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0x95c4c&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x871d&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x1a7b7&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0x12c7c7&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;Tea_Decrypt&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;m&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; k&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%x %x&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;	&lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;// 常规 Tea 解密&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;//VNCTF&amp;#123;ecd63ae5-8945-4ac4-b5a5-34fc3ade81e7&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/05/03/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</guid>
             <title>DASCTF X FATE逆向部分wp</title>
-            <link>https://0x401000nu1l.github.io/2022/05/03/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/DASCTF%E5%9B%9B%E6%9C%88%E9%80%86%E5%90%91%E9%83%A8%E5%88%86wp/</link>
             <category term="Reverse_wp_DASCTF" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp-DASCTF/" />
             <pubDate>Tue, 03 May 2022 16:01:26 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9idXVvai5jbi9tYXRjaC9tYXRjaGVzLzk1L2NoYWxsZW5nZXM=&#34;&gt;题目附件&lt;/span&gt;&lt;/p&gt;
@@ -918,9 +918,9 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/30/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</guid>
             <title>软构学习二</title>
-            <link>https://0x401000nu1l.github.io/2022/04/30/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</link>
+            <link>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</link>
             <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Sat, 30 Apr 2022 18:15:46 +0800</pubDate>
@@ -966,9 +966,9 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; branch -d &lt;span class=&#34;token builtin class-name&#34;&gt;test&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/29/whispers/%E5%B7%A6%E8%BD%AC/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/whispers/%E5%B7%A6%E8%BD%AC/</guid>
             <title>左转</title>
-            <link>https://0x401000nu1l.github.io/2022/04/29/whispers/%E5%B7%A6%E8%BD%AC/</link>
+            <link>https://0x401000nu1l.github.io/whispers/%E5%B7%A6%E8%BD%AC/</link>
             <pubDate>Fri, 29 Apr 2022 10:36:43 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h1&gt;
 &lt;p&gt;资本的复兴和脑力无产者的左转 -- 佐伊 23&lt;/p&gt;
@@ -1032,9 +1032,9 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/21/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/</guid>
             <title>CTFshow卷王杯wp</title>
-            <link>https://0x401000nu1l.github.io/2022/04/21/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/CTFshow%E5%8D%B7%E7%8E%8B%E6%9D%AFwp/</link>
             <category term="Reverse_wp_ctfshow_卷王杯" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp-ctfshow-%E5%8D%B7%E7%8E%8B%E6%9D%AF/" />
             <pubDate>Thu, 21 Apr 2022 00:07:10 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;ctfshow-卷王杯-wp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ctfshow-卷王杯-wp&#34;&gt;#&lt;/a&gt; &lt;strong&gt;CTFshow 卷王杯 wp&lt;/strong&gt;&lt;/h3&gt;
@@ -1165,9 +1165,9 @@ static dump(dumpfile,startimg,endimg,offset)
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/20/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</guid>
             <title>软构学习一</title>
-            <link>https://0x401000nu1l.github.io/2022/04/20/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</link>
+            <link>https://0x401000nu1l.github.io/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</link>
             <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Wed, 20 Apr 2022 18:15:40 +0800</pubDate>
@@ -1604,9 +1604,9 @@ new 外部类名或者接口名 (){重写方法};&lt;br&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/20/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/</guid>
             <title>starCTF逆向wp</title>
-            <link>https://0x401000nu1l.github.io/2022/04/20/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/starCTF%E9%80%86%E5%90%91wp/</link>
             <category term="Reverse_wp_starCTF" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp-starCTF/" />
             <pubDate>Wed, 20 Apr 2022 15:43:59 +0800</pubDate>
             <description><![CDATA[ &lt;h2 id=&#34;starctf-reverse-wirteup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#starctf-reverse-wirteup&#34;&gt;#&lt;/a&gt; StarCTF Reverse wirteup&lt;/h2&gt;
@@ -1707,16 +1707,16 @@ new 外部类名或者接口名 (){重写方法};&lt;br&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/19/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/</guid>
             <title>史上最小的elf文件</title>
-            <link>https://0x401000nu1l.github.io/2022/04/19/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/</link>
+            <link>https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B0%8F%E7%9A%84elf%E6%96%87%E4%BB%B6/</link>
             <pubDate>Tue, 19 Apr 2022 16:29:21 +0800</pubDate>
             <description><![CDATA[  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/18/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</guid>
             <title>汇编语言中系统调用</title>
-            <link>https://0x401000nu1l.github.io/2022/04/18/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</link>
+            <link>https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E6%B1%87%E7%BC%96-%E7%B3%BB%E7%BB%9F%E8%B0%83%E7%94%A8/</link>
             <category term="Assembly Language" scheme="https://0x401000nu1l.github.io/tags/Assembly-Language/" />
             <pubDate>Mon, 18 Apr 2022 21:51:42 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;linux系统调用&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#linux系统调用&#34;&gt;#&lt;/a&gt; linux 系统调用&lt;/h1&gt;
@@ -1750,9 +1750,9 @@ int 0x80    ; call kernel
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/16/CTF_Reverse/CTFshow36D%E6%9D%AFwp/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/CTF_Reverse/CTFshow36D%E6%9D%AFwp/</guid>
             <title>CTFshow36D杯wp</title>
-            <link>https://0x401000nu1l.github.io/2022/04/16/CTF_Reverse/CTFshow36D%E6%9D%AFwp/</link>
+            <link>https://0x401000nu1l.github.io/CTF_Reverse/CTFshow36D%E6%9D%AFwp/</link>
             <category term="Reverse_wp_ctfshow_36D杯" scheme="https://0x401000nu1l.github.io/tags/Reverse-wp-ctfshow-36D%E6%9D%AF/" />
             <pubDate>Sat, 16 Apr 2022 15:37:06 +0800</pubDate>
             <description><![CDATA[ &lt;h3 id=&#34;ctfshow-36d杯-wp&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#ctfshow-36d杯-wp&#34;&gt;#&lt;/a&gt; &lt;strong&gt;CTFshow 36D 杯 wp&lt;/strong&gt;&lt;/h3&gt;
@@ -1840,9 +1840,9 @@ sernz bl      ;这里就能判断eax为1
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/13/whispers/plan/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/whispers/plan/</guid>
             <title>plan</title>
-            <link>https://0x401000nu1l.github.io/2022/04/13/whispers/plan/</link>
+            <link>https://0x401000nu1l.github.io/whispers/plan/</link>
             <category term="plan" scheme="https://0x401000nu1l.github.io/tags/plan/" />
             <pubDate>Wed, 13 Apr 2022 22:29:38 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;对自己小半年总结以及规划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#对自己小半年总结以及规划&#34;&gt;#&lt;/a&gt; 对自己小半年总结以及规划&lt;/h1&gt;
@@ -1871,9 +1871,9 @@ sernz bl      ;这里就能判断eax为1
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/12/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/</guid>
+            <guid isPermalink="true">https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/</guid>
             <title>二进制炸弹</title>
-            <link>https://0x401000nu1l.github.io/2022/04/12/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/</link>
+            <link>https://0x401000nu1l.github.io/Composition-Principles-and-Architecture/%E4%BA%8C%E8%BF%9B%E5%88%B6%E7%82%B8%E5%BC%B9/</link>
             <category term="CSAPP_LAB" scheme="https://0x401000nu1l.github.io/tags/CSAPP-LAB/" />
             <pubDate>Tue, 12 Apr 2022 09:40:12 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;哈尔滨工业大学计算机系统lab2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#哈尔滨工业大学计算机系统lab2&#34;&gt;#&lt;/a&gt; &lt;strong&gt;哈尔滨工业大学计算机系统 LAB2&lt;/strong&gt;&lt;/h1&gt;
