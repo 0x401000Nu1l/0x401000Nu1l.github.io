@@ -209,6 +209,7 @@
 &lt;li&gt;当需要控制子类的扩展时，模板方法只在特定点调用钩子操作，这样就只允许在这些点进行扩展。&lt;/li&gt;
 &lt;/ul&gt;
 </content>
+        <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
         <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
         <updated>2022-06-13T10:16:05.000Z</updated>
     </entry>
@@ -322,6 +323,7 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-20220614170833213.png&#34; alt=&#34;image-20220614170833213&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;image-20220614170842889.png&#34; alt=&#34;image-20220614170842889&#34;&gt;&lt;/p&gt;
 </content>
+        <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
         <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
         <updated>2022-06-01T10:15:57.000Z</updated>
     </entry>
@@ -626,6 +628,7 @@ Java 是一种静态类型语言，它同时具有静态类型检查和动态类
 &lt;p&gt;Java 中的常用容器如 ArrayList、HashMap 等都是 mutable 的，如果希望容器不可变，可使用包装器 Collections.unmodifiableList 等获取一个不可变的包装对象 —— 当调用 mutator 方法时会抛出一个异常。&lt;/p&gt;
 &lt;p&gt;然而，这种 “不可变” 是在运行阶段获得的，编译阶段无法据此进行静态检查。同时，wrapper 仅仅保证了无法通过 wrapper 引用修改对象，但如果通过被包装对象的引用修改了对象的值，wrapper 引用指向的对象仍然会被修改。&lt;/p&gt;
 </content>
+        <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
         <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
         <updated>2022-05-15T10:15:52.000Z</updated>
     </entry>
@@ -955,6 +958,7 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; checkout master&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;对其他分支的更改不会反映在主分支上。如果想将更改提交到主分支，则需切换回 master 分支，然后使用合并。&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; checkout master&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; merge &lt;span class=&#34;token builtin class-name&#34;&gt;test&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;如果想删除分支，使用 - d 标识。&lt;/p&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;git&lt;/span&gt; branch -d &lt;span class=&#34;token builtin class-name&#34;&gt;test&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</content>
+        <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
         <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
         <updated>2022-04-30T10:15:46.000Z</updated>
     </entry>
@@ -1592,6 +1596,7 @@ new 外部类名或者接口名 (){重写方法};&lt;br&gt;
 &lt;li&gt;成员方法 public&lt;/li&gt;
 &lt;/ul&gt;
 </content>
+        <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
         <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
         <updated>2022-04-20T10:15:40.000Z</updated>
     </entry>

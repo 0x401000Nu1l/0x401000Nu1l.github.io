@@ -23,6 +23,7 @@
             <guid isPermalink="true">https://0x401000nu1l.github.io/2022/06/13/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</guid>
             <title>软构学习五</title>
             <link>https://0x401000nu1l.github.io/2022/06/13/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%94/</link>
+            <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Mon, 13 Jun 2022 18:16:05 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;设计模式&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设计模式&#34;&gt;#&lt;/a&gt; 设计模式&lt;/h1&gt;
@@ -285,6 +286,7 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
             <guid isPermalink="true">https://0x401000nu1l.github.io/2022/06/01/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</guid>
             <title>软构学习四</title>
             <link>https://0x401000nu1l.github.io/2022/06/01/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E5%9B%9B/</link>
+            <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Wed, 01 Jun 2022 18:15:57 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;课程内容5-8章复习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程内容5-8章复习&#34;&gt;#&lt;/a&gt; 课程内容 5-8 章复习&lt;/h1&gt;
@@ -332,6 +334,7 @@ swift 编译生成中间文件的阅读理解&lt;/p&gt;
             <guid isPermalink="true">https://0x401000nu1l.github.io/2022/05/15/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</guid>
             <title>软构学习三</title>
             <link>https://0x401000nu1l.github.io/2022/05/15/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%89/</link>
+            <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Sun, 15 May 2022 18:15:52 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;课程内容1-4章复习&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#课程内容1-4章复习&#34;&gt;#&lt;/a&gt; 课程内容 1-4 章复习&lt;/h1&gt;
@@ -918,6 +921,7 @@ upx 壳，直接用 upx -d 命令解壳&lt;br&gt;
             <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/30/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</guid>
             <title>软构学习二</title>
             <link>https://0x401000nu1l.github.io/2022/04/30/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%BA%8C/</link>
+            <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Sat, 30 Apr 2022 18:15:46 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;git学习之旅&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git学习之旅&#34;&gt;#&lt;/a&gt; Git 学习之旅&lt;/h1&gt;
@@ -1164,6 +1168,7 @@ static dump(dumpfile,startimg,endimg,offset)
             <guid isPermalink="true">https://0x401000nu1l.github.io/2022/04/20/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</guid>
             <title>软构学习一</title>
             <link>https://0x401000nu1l.github.io/2022/04/20/Software-Construction/%E8%BD%AF%E6%9E%84%E5%AD%A6%E4%B9%A0%E4%B8%80/</link>
+            <category term="Software-Construction" scheme="https://0x401000nu1l.github.io/categories/Software-Construction/" />
             <category term="软件构造" scheme="https://0x401000nu1l.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%9E%84%E9%80%A0/" />
             <pubDate>Wed, 20 Apr 2022 18:15:40 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;java学习以及面向对象初步&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#java学习以及面向对象初步&#34;&gt;#&lt;/a&gt; Java 学习以及面向对象初步&lt;/h1&gt;
